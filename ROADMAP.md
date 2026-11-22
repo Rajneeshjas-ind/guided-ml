@@ -18,8 +18,8 @@
 
 | # | Stage | What the user decides |
 |---|---|---|
-| 0 | Frame the problem | Business decision, target, success metric, prediction time |
-| 1 | Load + data quality | Which strings mean missing, data-type fixes, duplicates |
+| 0 | Load + data quality | Which strings mean missing, data-type fixes, duplicates |
+| 1 | Frame the problem | Business decision, target, row unit, prediction time, error cost and metric |
 | 2 | Target + leakage screen | Which columns are known at prediction time |
 | 3 | Split strategy | Random, stratified, time-based or group-based split |
 | 4 | EDA | Univariate, bivariate, multivariate views and what to act on |

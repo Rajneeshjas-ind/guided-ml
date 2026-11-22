@@ -16,7 +16,7 @@ guided-ml takes the opposite approach. At every step it suggests what to do and 
 
 ```mermaid
 flowchart LR
-    A[0 Frame the problem] --> B[1 Load + data quality]
+    A[0 Load + data quality] --> B[1 Frame the problem]
     B --> C[2 Leakage screen]
     C --> D[3 Split strategy]
     D --> E[4 EDA: uni / bi / multivariate]
