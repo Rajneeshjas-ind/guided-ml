@@ -30,7 +30,7 @@
 
 ## Milestones
 
-- [ ] **M0 Setup + charter** (target: 23–29 Nov 2026): repo, README, this roadmap, flow agreed
+- [x] **M0 Setup + charter** (target: 23–29 Nov 2026): repo, README, this roadmap, flow agreed
 - [ ] **M1 Design frozen** (30 Nov – 13 Dec 2026): a step card for every stage in `docs/DESIGN.md`
 - [ ] **M2 v0.1 Data in** (14 Dec 2026 – 10 Jan 2027): stages 0–3 working in a notebook on two datasets, with tests
 - [ ] **M3 v0.2 EDA** (Jan – Feb 2027): stage 4 with statistical test guidance and a recommended next action per view
