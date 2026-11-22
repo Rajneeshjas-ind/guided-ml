@@ -1,6 +1,6 @@
 # guided-ml
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Status](https://img.shields.io/badge/status-design%20phase-orange)
 
@@ -44,4 +44,4 @@ Design phase. See [ROADMAP.md](ROADMAP.md) for milestones and [docs/DESIGN.md](d
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Released into the public domain under [The Unlicense](LICENSE): anyone may use it for any purpose, without conditions. Provided "as is", without warranty of any kind.
